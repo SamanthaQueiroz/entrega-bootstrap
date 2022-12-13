@@ -8,3 +8,43 @@ button{
    margin-top: 5%;
   
 }
+
+.texto, .paragrafo{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.texto-titulo{
+    text-align: center;
+    font-weight: 700;
+    font-size: 80px;
+    margin: 200px 0 200px;
+    color: rgb(99, 50, 189);
+
+}
+
+.texto-subtitulo{
+    text-align: center;
+    font-weight: 600;
+    font-size: 56px;
+    color: rgb(177, 25, 129);
+    margin: 200px 0 200px;
+}
+
+.paragrafo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.paragrafo-1, .paragrafo-2{
+    text-align: center;
+     font-weight: 400;
+     font-size: 25px;
+     color:rgb(99, 50, 189);
+     margin: 40px 80px 80px;
+ 
+}
+
+
+
